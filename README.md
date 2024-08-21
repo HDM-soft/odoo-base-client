@@ -4,7 +4,7 @@ Template Odoo con docker & docker compose  v16 community
 ## Desarrollado por: 
 	- "Elias Braceras" 
 	- "Horacio Montaño" 
-	-  Repo: [https://github.com/HDM-soft/odoo16-prod]
+	-  Repo: [https://github.com/HDM-soft/odoo-base-client]
 
 ## Breve Descripcion :
 
