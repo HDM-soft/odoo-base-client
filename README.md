@@ -201,7 +201,7 @@ contenedores y hacer el re-build para luego levantar los contenedores.
 
 _ Si usted tiene alguna duda sobre el funcionamiento de este ambiente de produccion puede contactarse y enviarnos un ticket 
 de soporte al siguiente link: 
-	- [https://hdmsoft.com.ar/contact]
+	- [https://odoo.hdmsoft.com.ar/contactus]
  
 
 
