@@ -12,4 +12,6 @@ RUN python3 -m pip install gitman
 
 RUN gitman install -r /usr/lib/python3/dist-packages/odoo/
 
+RUN apt install python3-m2crypto -y
+
 CMD odoo -c /etc/odoo/odoo.conf

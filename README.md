@@ -14,7 +14,7 @@ Docker Compose y la herramienta GITMAN
 
 ### Archivos Necesarios
 
-* Directorio "addons"
+* Directorio "addons", (en el caso de no estar presente en el repositorio debera crearlo con el comando "mkdir addons")
 * Directorio "config/odoo.conf"
 * Archivo "odoo_pg_pass"
 * Archivo "**Dockerfile**"
