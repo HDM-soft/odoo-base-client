@@ -1,5 +1,5 @@
 # Odoo-Docker-Produccion
-Template Odoo con docker & docker compose  v16 community
+Template Odoo con docker & docker compose para produccion
 
 ## Desarrollado por: 
 	- "Elias Braceras" 

@@ -14,4 +14,6 @@ RUN gitman install -r /usr/lib/python3/dist-packages/odoo/
 
 RUN apt install python3-m2crypto -y
 
+RUN chown -R odoo:odoo /var/lib/odoo/filestore/
+
 CMD odoo -c /etc/odoo/odoo.conf
